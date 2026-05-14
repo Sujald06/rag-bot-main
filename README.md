@@ -110,24 +110,4 @@ Never commit your .env file
 To reset the vector database → delete the chroma_store folder
 Works best with Groq's Llama3-70b or Mixtral models
 
-## 👨‍💻 About the Author
 
-**Ojas Bidkar**
-
-🚀 Full-Stack Developer | **Generative AI Engineer** | Next.js & React Native Developer | 3D Web Developer
-
-Building modern, scalable, and intelligent digital experiences across web, mobile, 3D platforms, and **Generative AI** applications.
-
-**Skills & Expertise:**
-
-- 💻 Full-Stack Development: Next.js, React, TypeScript, Node.js
-- 🤖 Generative AI & RAG: LLM Applications, Groq, LangChain, Vector Databases
-- 📱 App Development: React Native
-- 🌐 3D Web Development: Three.js, React Three Fiber
-- ⚡ Frontend Engineering: Responsive UI, Performance Optimization
-- 🛠️ Backend & APIs: REST APIs, Database Integration
-
-**Connect with me:**
-
-- **GitHub**: [ojasss11](https://github.com/ojasss11)
-- **LinkedIn**: [Ojas Bidkar](https://www.linkedin.com/in/ojas-bidkar-17ba8927b/)
